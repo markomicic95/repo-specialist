@@ -26,3 +26,6 @@ python -m venv venv
 
 # Install dependencies
 pip install requests
+
+<img width="892" height="477" alt="Screenshot 2026-01-14 152104" src="https://github.com/user-attachments/assets/4e2512b1-dc0b-46c9-95f0-ac0d65b496ed" />
+
